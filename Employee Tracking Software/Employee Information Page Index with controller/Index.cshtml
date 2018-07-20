@@ -1,0 +1,127 @@
+﻿@model ScheduleUsers.ViewModels.EventListVm
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@*LOGO*@
+<div id="workevent-logo">
+    <a href="~/Account/Login"> <img class="logo-mini" src="~/Images/The-Tech-Academy-Logo.png" /></a>
+</div>
+
+@using (Html.BeginForm("Index", "WorkTimeEvent", FormMethod.Post, new { id = "DateUpdater" }))
+{
+
+    @*DATE PICKERS INPUT FORM AND PAY PERIOD DROPDOWN*@
+    <div class="clear-all-floats" >
+    @* PAY PERIOD DROPDOWN !!!PLACEHOLDER!!!!  *@
+    @*DATE PICKERS*@
+
+    <h5 style="padding-left:13px;">Pay Period</h5>
+    <div class="col-lg-3">
+        <select name="PayPeriod" class="form-control">
+            <option>Placeholder</option>
+            <option>Lorum</option>
+            <option>Ipsum</option>
+        </select>
+    </div>
+    <br />
+    <br />
+    <div class="col-lg-3">
+        <h5>Starting Date</h5>
+        @Html.EditorFor(x => x.DisplayBeginDate, new { htmlAttributes = new { @class = "form-control", type = "date" } })
+    </div>
+
+    <div class="col-lg-3">
+        <h5>Ending Date</h5>
+        @Html.EditorFor(x => x.DisplayEndDate, new { htmlAttributes = new { @class = "form-control", type = "date" } })
+    </div>
+    <br /> <br /> <br /> <br />
+    <input type="submit" id="BtnUpdateInfo" value="update" class="update-button" name="DateFilterSort" style="float:left; margin-left:1%;"/>
+</div>
+    @* DIV FOR GROSS EXPECTED PAY, BOOL OF CLOCKED IN, AND TOTAL HOURS OF THE DISPLAY*@
+        @Html.HiddenFor(modelItem => Model.UserId)
+    <div class="text-right clear-all-floats">
+        @Html.DisplayNameFor(model => model.EventsTotalHours):<br />
+        <strong>
+            @string.Format("{0}:{1}", (Model.EventsTotalHours.Days * 24) + Model.EventsTotalHours.Hours, Model.EventsTotalHours.Minutes)<br /><br />
+        </strong>
+        @Html.DisplayNameFor(model => model.ClockedIn):<br />
+
+        @*REFINGING CLOCKED IN STATUS*@
+        @{string Status; }
+        @if (Model.ClockedIn == true)
+        {
+            Status = "Currently Clocked In";
+        }
+        else
+        {
+            Status = "Not Clocked In";
+        }
+        <strong>
+            @Html.Raw(Status)<br /><br />
+        </strong>
+        @Html.DisplayNameFor(model => model.GrossExpectedPay): <br />
+        <strong>
+            @Html.DisplayFor(model => model.GrossExpectedPay)
+        </strong>
+    </div>
+    @* NAME DISPLAY *@
+    <div class="text-center margin" style="font-size:xx-large;">
+        @Html.ViewData["FullName"] <br /> <br />
+    </div>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EventVms.First().EventNote)
+            </th>
+            @*SORT ORDER COLUMN HEADINGS*@
+            <th>
+                <button value="@ViewBag.DateSortParm" name="DateFilterSort" type="submit">
+                    Shift Start Date
+                </button>
+            </th>
+            <th>
+                <button value="@ViewBag.DateSortParm" name="DateFilterSort" type="submit">
+                    Shift End Date
+                </button>
+            </th>
+
+            <th>
+                <button value="@ViewBag.HoursSortParm" name="HoursSorter" type="submit">
+                    Total Hours
+                </button>
+            </th>
+            <th>
+                Edit Shift
+            </th>
+     </tr>
+        @for (int i = 0; i < Model.EventVms.Count; i++)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.EventVms[i].EventNote)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.EventVms[i].EventTimeIn)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.EventVms[i].EventTimeOut)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.EventVms[i].EventHoursWorked)
+                </td>
+                <td>
+
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ })
+
+                </td>
+            </tr>
+        }
+    </table>
+
+
+}
+
+
+
