@@ -1,0 +1,271 @@
+/*Divs*/
+
+body {
+    background-image:url(../img/bg.png);
+    background-attachment: fixed;
+    background-color:darkslategray;
+}
+
+#form-container{
+    margin:0 auto;
+    background-color: #2da4ff;
+    width:80%;
+    text-align:center;
+    border-radius: 5px;
+    border:4px groove silver;
+    padding-bottom: 3%;
+}
+
+form{
+    width: 85%;
+    height: 90%;
+    background-color: #d32326;
+    opacity: ;
+    border-radius: 50px;
+    margin:0 auto;
+    padding-top: 3%;
+    font-family: 'Russo One', sans-serif;
+    border: 2px outset darkblue; 
+    
+}
+
+.selections{
+    background-color:rgb(191, 242, 254);
+    text-align: center;
+    width:70%;
+    overflow:hidden;
+    margin:0 auto;
+    border-radius: 50px;
+    border: 3px groove #15511a;
+    padding-bottom: 2%;
+    
+    
+}
+
+.choises {
+    text-align: justify;
+    padding-left:37%;
+    padding-right:4%;
+    border-radius: 50px;
+    
+}
+
+header{
+    margin: 0 auto;
+    width:80%;
+    border-radius:20px;
+    text-align:center;
+    background-color:#ff3a3a;
+    border: 20px dotted #79c5ff;
+   
+}
+
+/*
+header:hover {
+            
+  animation: spin 10s infinite linear;
+}
+
+header:hover span {
+  animation: spin 10s infinite reverse linear;
+}
+
+span {
+  display: inline-block;
+}
+
+*/
+
+@keyframes spin {
+  100% { transform: rotate(1turn); }
+}
+
+
+
+#meat{
+    float:left;
+    
+    margin: 0 auto;
+    width:45%;
+    clear:none;
+    text-align: justify;
+    padding-left: 8%
+    
+}
+
+#line{
+    border-left:3px solid black;
+    height:250px;
+    clear:none;  
+    margin:0 auto;
+    display:inline-flex;
+    float:left;
+}
+
+
+#veggie {
+    float:right;
+    text-align: justify;    
+  
+    margin:0 auto;
+    clear:none;
+    width:40%;
+    padding-right: 5%;
+    
+}
+
+.totals {
+    color:rgb(191, 242, 254);
+    text-align: justify;
+    margin:0 auto;
+    width: 40%
+    
+}
+
+
+/*End divs*/
+
+h1{
+    font-size:7em;
+    font-family: 'Russo One', sans-serif;
+    color:#79c5ff;
+    overflow: auto;
+    
+}
+
+h2{
+    font-size:4em;
+    font-family: 'Russo One', sans-serif;
+    color:#79c5ff;
+    text-align: center;
+    border: 4px dotted #79c5ff;
+    width:40%;
+    margin: 0 auto;
+    background-color:#ff3a3a;
+    border-radius:50px;
+}
+
+h3{
+    font-size:2em;
+    font-family: 'Russo One', sans-serif;
+    color:;
+    padding:0 2% 0 2%;
+    
+}
+
+h4 {
+     font-size:1.4em;
+    font-family: 'Russo One', sans-serif;
+    
+    
+    
+}
+
+h5 {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+
+h6{
+    text-align: center;
+    font-size: 1.2em;
+
+}
+
+.lo {
+    font-size: 1.2em;
+    text-align: left;
+
+}
+
+button{
+    margin-bottom: 3%;
+    font-family: 'Russo One', sans-serif;
+    font-size:2em;
+    padding: 2.5%;
+    border-radius:25px;
+    border:5px outset ;
+    box-shadow: 10px 10px 60px 1px;
+    cursor: url(http://cur.cursors-4u.net/food/foo-2/foo165.cur), auto;
+    background-color: rgb(191, 242, 226,0.9);
+    border: 2px outset white;
+        
+}
+button:hover {
+  transform: translateY(4px);
+  background-image: url(../img/button.png)
+}
+
+
+
+/*MEDIA BREAKS*/
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 3em;
+    }
+    
+    h2{
+        font-size:2em;
+    }
+    
+    .selections{
+    border-radius: 0px;
+    }
+    
+   
+    #meat {
+        font-size:.75em;
+        padding-left:2%;
+        width:25%;
+        
+            
+    }
+    
+     #meat h4{
+        font-size:em
+    }
+    
+    
+      #veggie {
+        font-size:.75em;
+        padding-right:20%;
+        width:20%;
+            
+    }
+    
+     #veggie h4{
+        font-size:em
+    }
+    
+    #line{
+    height: 320px;
+    float:none;            
+
+    }
+    
+    .totals {
+    
+    text-align: center;
+    
+    
+    }
+    
+}
+
+@media only screen and (max-width: 900px) {
+ .choises {
+    text-align: left;
+    padding-left:5%;
+    }
+    
+}
+
+
+
+@media only screen and (min-width:1200px) {
+    h2{
+        width:25%;
+    }
+}
