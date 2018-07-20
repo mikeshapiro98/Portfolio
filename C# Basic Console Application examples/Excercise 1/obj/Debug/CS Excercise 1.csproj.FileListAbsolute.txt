@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Excercise 1\bin\Debug\CS Excercise 1.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Excercise 1\bin\Debug\CS Excercise 1.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Excercise 1\bin\Debug\CS Excercise 1.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Excercise 1\obj\Debug\CS Excercise 1.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Excercise 1\obj\Debug\CS Excercise 1.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Excercise 1\obj\Debug\CS Excercise 1.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Excercise 1\obj\Debug\CS Excercise 1.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 1\bin\Debug\CS Excercise 1.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 1\bin\Debug\CS Excercise 1.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 1\bin\Debug\CS Excercise 1.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 1\obj\Debug\CS Excercise 1.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 1\obj\Debug\CS Excercise 1.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 1\obj\Debug\CS Excercise 1.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 1\obj\Debug\CS Excercise 1.pdb

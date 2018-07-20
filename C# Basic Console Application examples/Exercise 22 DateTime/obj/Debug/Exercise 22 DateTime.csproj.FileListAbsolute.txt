@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 22 DateTime\bin\Debug\Exercise 22 DateTime.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 22 DateTime\bin\Debug\Exercise 22 DateTime.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 22 DateTime\bin\Debug\Exercise 22 DateTime.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 22 DateTime\obj\Debug\Exercise 22 DateTime.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 22 DateTime\obj\Debug\Exercise 22 DateTime.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 22 DateTime\obj\Debug\Exercise 22 DateTime.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 22 DateTime\obj\Debug\Exercise 22 DateTime.pdb

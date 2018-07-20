@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 14 abstract classes\bin\Debug\Exercise 14 abstract classes.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 14 abstract classes\bin\Debug\Exercise 14 abstract classes.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 14 abstract classes\bin\Debug\Exercise 14 abstract classes.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 14 abstract classes\obj\Debug\Exercise 14 abstract classes.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 14 abstract classes\obj\Debug\Exercise 14 abstract classes.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 14 abstract classes\obj\Debug\Exercise 14 abstract classes.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 14 abstract classes\obj\Debug\Exercise 14 abstract classes.pdb

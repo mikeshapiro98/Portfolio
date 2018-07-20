@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Exercise 3 while statements\bin\Debug\CS Exercise 3 while statements.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Exercise 3 while statements\bin\Debug\CS Exercise 3 while statements.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Exercise 3 while statements\bin\Debug\CS Exercise 3 while statements.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Exercise 3 while statements\obj\Debug\CS Exercise 3 while statements.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Exercise 3 while statements\obj\Debug\CS Exercise 3 while statements.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Exercise 3 while statements\obj\Debug\CS Exercise 3 while statements.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\CS Exercise 3 while statements\obj\Debug\CS Exercise 3 while statements.pdb

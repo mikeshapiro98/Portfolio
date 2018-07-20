@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 2 boolean comparison\bin\Debug\exercise 2 boolean comparison.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 2 boolean comparison\bin\Debug\exercise 2 boolean comparison.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 2 boolean comparison\bin\Debug\exercise 2 boolean comparison.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 2 boolean comparison\obj\Debug\exercise 2 boolean comparison.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 2 boolean comparison\obj\Debug\exercise 2 boolean comparison.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 2 boolean comparison\obj\Debug\exercise 2 boolean comparison.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 2 boolean comparison\obj\Debug\exercise 2 boolean comparison.pdb

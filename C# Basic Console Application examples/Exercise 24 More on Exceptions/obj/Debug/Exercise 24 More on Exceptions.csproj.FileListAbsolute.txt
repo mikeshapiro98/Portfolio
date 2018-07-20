@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 24 More on Exceptions\bin\Debug\Exercise 24 More on Exceptions.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 24 More on Exceptions\bin\Debug\Exercise 24 More on Exceptions.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 24 More on Exceptions\bin\Debug\Exercise 24 More on Exceptions.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 24 More on Exceptions\obj\Debug\Exercise 24 More on Exceptions.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 24 More on Exceptions\obj\Debug\Exercise 24 More on Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 24 More on Exceptions\obj\Debug\Exercise 24 More on Exceptions.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 24 More on Exceptions\obj\Debug\Exercise 24 More on Exceptions.pdb

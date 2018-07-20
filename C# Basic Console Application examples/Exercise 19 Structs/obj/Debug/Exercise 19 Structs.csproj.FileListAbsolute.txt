@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 19 Structs\bin\Debug\Exercise 19 Structs.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 19 Structs\bin\Debug\Exercise 19 Structs.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 19 Structs\bin\Debug\Exercise 19 Structs.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 19 Structs\obj\Debug\Exercise 19 Structs.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 19 Structs\obj\Debug\Exercise 19 Structs.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 19 Structs\obj\Debug\Exercise 19 Structs.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 19 Structs\obj\Debug\Exercise 19 Structs.pdb

@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 9 methods expansion\bin\Debug\Exercise 9 methods expansion.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 9 methods expansion\bin\Debug\Exercise 9 methods expansion.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 9 methods expansion\bin\Debug\Exercise 9 methods expansion.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 9 methods expansion\obj\Debug\Exercise 9 methods expansion.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 9 methods expansion\obj\Debug\Exercise 9 methods expansion.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 9 methods expansion\obj\Debug\Exercise 9 methods expansion.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 9 methods expansion\obj\Debug\Exercise 9 methods expansion.pdb

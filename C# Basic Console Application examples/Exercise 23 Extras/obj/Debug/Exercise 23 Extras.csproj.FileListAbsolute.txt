@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 23 Extras\bin\Debug\Exercise 23 Extras.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 23 Extras\bin\Debug\Exercise 23 Extras.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 23 Extras\bin\Debug\Exercise 23 Extras.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 23 Extras\obj\Debug\Exercise 23 Extras.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 23 Extras\obj\Debug\Exercise 23 Extras.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 23 Extras\obj\Debug\Exercise 23 Extras.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 23 Extras\obj\Debug\Exercise 23 Extras.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 11 named perameters\bin\Debug\exercise 11 named perameters.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 11 named perameters\bin\Debug\exercise 11 named perameters.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 11 named perameters\bin\Debug\exercise 11 named perameters.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 11 named perameters\obj\Debug\exercise 11 named perameters.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 11 named perameters\obj\Debug\exercise 11 named perameters.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 11 named perameters\obj\Debug\exercise 11 named perameters.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 11 named perameters\obj\Debug\exercise 11 named perameters.pdb

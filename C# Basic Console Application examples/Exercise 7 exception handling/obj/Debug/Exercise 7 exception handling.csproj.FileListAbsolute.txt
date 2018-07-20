@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\C# projects and files\Exercise 7 exception handling\bin\Debug\Exercise 7 exception handling.exe.config
+C:\Users\micha\OneDrive\Desktop\C# projects and files\Exercise 7 exception handling\bin\Debug\Exercise 7 exception handling.exe
+C:\Users\micha\OneDrive\Desktop\C# projects and files\Exercise 7 exception handling\bin\Debug\Exercise 7 exception handling.pdb
+C:\Users\micha\OneDrive\Desktop\C# projects and files\Exercise 7 exception handling\obj\Debug\Exercise 7 exception handling.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# projects and files\Exercise 7 exception handling\obj\Debug\Exercise 7 exception handling.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# projects and files\Exercise 7 exception handling\obj\Debug\Exercise 7 exception handling.exe
+C:\Users\micha\OneDrive\Desktop\C# projects and files\Exercise 7 exception handling\obj\Debug\Exercise 7 exception handling.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 7 exception handling\bin\Debug\Exercise 7 exception handling.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 7 exception handling\bin\Debug\Exercise 7 exception handling.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 7 exception handling\bin\Debug\Exercise 7 exception handling.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 7 exception handling\obj\Debug\Exercise 7 exception handling.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 7 exception handling\obj\Debug\Exercise 7 exception handling.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 7 exception handling\obj\Debug\Exercise 7 exception handling.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 7 exception handling\obj\Debug\Exercise 7 exception handling.pdb

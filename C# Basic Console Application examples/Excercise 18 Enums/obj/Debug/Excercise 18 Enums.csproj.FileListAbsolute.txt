@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 18 Enums\bin\Debug\Excercise 18 Enums.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 18 Enums\bin\Debug\Excercise 18 Enums.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 18 Enums\bin\Debug\Excercise 18 Enums.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 18 Enums\obj\Debug\Excercise 18 Enums.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 18 Enums\obj\Debug\Excercise 18 Enums.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 18 Enums\obj\Debug\Excercise 18 Enums.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Excercise 18 Enums\obj\Debug\Excercise 18 Enums.pdb

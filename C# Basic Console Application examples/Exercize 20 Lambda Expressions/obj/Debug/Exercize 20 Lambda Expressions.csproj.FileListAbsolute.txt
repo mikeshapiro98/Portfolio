@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercize 20 Lambda Expressions\bin\Debug\Exercize 20 Lambda Expressions.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercize 20 Lambda Expressions\bin\Debug\Exercize 20 Lambda Expressions.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercize 20 Lambda Expressions\bin\Debug\Exercize 20 Lambda Expressions.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercize 20 Lambda Expressions\obj\Debug\Exercize 20 Lambda Expressions.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercize 20 Lambda Expressions\obj\Debug\Exercize 20 Lambda Expressions.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercize 20 Lambda Expressions\obj\Debug\Exercize 20 Lambda Expressions.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercize 20 Lambda Expressions\obj\Debug\Exercize 20 Lambda Expressions.pdb

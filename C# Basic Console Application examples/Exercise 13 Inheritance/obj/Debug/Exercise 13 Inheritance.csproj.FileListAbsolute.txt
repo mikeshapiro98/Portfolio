@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 13 Inheritance\bin\Debug\Exercise 13 Inheritance.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 13 Inheritance\bin\Debug\Exercise 13 Inheritance.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 13 Inheritance\bin\Debug\Exercise 13 Inheritance.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 13 Inheritance\obj\Debug\Exercise 13 Inheritance.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 13 Inheritance\obj\Debug\Exercise 13 Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 13 Inheritance\obj\Debug\Exercise 13 Inheritance.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 13 Inheritance\obj\Debug\Exercise 13 Inheritance.pdb

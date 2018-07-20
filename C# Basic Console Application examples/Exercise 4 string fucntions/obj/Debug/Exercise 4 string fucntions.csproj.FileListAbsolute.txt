@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 4 string fucntions\bin\Debug\Exercise 4 string fucntions.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 4 string fucntions\bin\Debug\Exercise 4 string fucntions.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 4 string fucntions\bin\Debug\Exercise 4 string fucntions.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 4 string fucntions\obj\Debug\Exercise 4 string fucntions.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 4 string fucntions\obj\Debug\Exercise 4 string fucntions.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 4 string fucntions\obj\Debug\Exercise 4 string fucntions.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 4 string fucntions\obj\Debug\Exercise 4 string fucntions.pdb

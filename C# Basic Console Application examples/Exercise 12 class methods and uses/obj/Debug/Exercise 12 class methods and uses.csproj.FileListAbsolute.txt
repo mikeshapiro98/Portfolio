@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 12 class methods and uses\bin\Debug\Exercise 12 class methods and uses.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 12 class methods and uses\bin\Debug\Exercise 12 class methods and uses.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 12 class methods and uses\bin\Debug\Exercise 12 class methods and uses.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 12 class methods and uses\obj\Debug\Exercise 12 class methods and uses.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 12 class methods and uses\obj\Debug\Exercise 12 class methods and uses.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 12 class methods and uses\obj\Debug\Exercise 12 class methods and uses.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 12 class methods and uses\obj\Debug\Exercise 12 class methods and uses.pdb

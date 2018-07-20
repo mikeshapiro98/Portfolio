@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 6 Iterations\bin\Debug\Exercise 6 Iterations.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 6 Iterations\bin\Debug\Exercise 6 Iterations.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 6 Iterations\bin\Debug\Exercise 6 Iterations.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 6 Iterations\obj\Debug\Exercise 6 Iterations.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 6 Iterations\obj\Debug\Exercise 6 Iterations.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 6 Iterations\obj\Debug\Exercise 6 Iterations.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 6 Iterations\obj\Debug\Exercise 6 Iterations.pdb

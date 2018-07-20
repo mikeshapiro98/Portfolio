@@ -1,0 +1,6 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 15 interface and polymorphism\bin\Debug\Exercise 15 interface and polymorphism.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 15 interface and polymorphism\bin\Debug\Exercise 15 interface and polymorphism.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 15 interface and polymorphism\bin\Debug\Exercise 15 interface and polymorphism.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 15 interface and polymorphism\obj\Debug\Exercise 15 interface and polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 15 interface and polymorphism\obj\Debug\Exercise 15 interface and polymorphism.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 15 interface and polymorphism\obj\Debug\Exercise 15 interface and polymorphism.pdb

@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 17 Generics\bin\Debug\Exercise 17 Generics.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 17 Generics\bin\Debug\Exercise 17 Generics.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 17 Generics\bin\Debug\Exercise 17 Generics.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 17 Generics\obj\Debug\Exercise 17 Generics.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 17 Generics\obj\Debug\Exercise 17 Generics.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 17 Generics\obj\Debug\Exercise 17 Generics.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 17 Generics\obj\Debug\Exercise 17 Generics.pdb

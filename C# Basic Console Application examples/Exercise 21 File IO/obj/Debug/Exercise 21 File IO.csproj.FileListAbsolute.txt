@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 21 File IO\bin\Debug\Exercise 21 File IO.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 21 File IO\bin\Debug\Exercise 21 File IO.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 21 File IO\bin\Debug\Exercise 21 File IO.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 21 File IO\obj\Debug\Exercise 21 File IO.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 21 File IO\obj\Debug\Exercise 21 File IO.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 21 File IO\obj\Debug\Exercise 21 File IO.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 21 File IO\obj\Debug\Exercise 21 File IO.pdb

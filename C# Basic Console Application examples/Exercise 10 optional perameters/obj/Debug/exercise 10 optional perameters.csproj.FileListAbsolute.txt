@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 10 optional perameters\bin\Debug\exercise 10 optional perameters.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 10 optional perameters\bin\Debug\exercise 10 optional perameters.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 10 optional perameters\bin\Debug\exercise 10 optional perameters.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 10 optional perameters\obj\Debug\exercise 10 optional perameters.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 10 optional perameters\obj\Debug\exercise 10 optional perameters.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 10 optional perameters\obj\Debug\exercise 10 optional perameters.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\exercise 10 optional perameters\obj\Debug\exercise 10 optional perameters.pdb

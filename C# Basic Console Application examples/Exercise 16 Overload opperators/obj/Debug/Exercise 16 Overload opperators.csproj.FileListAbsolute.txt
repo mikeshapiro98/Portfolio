@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 16 Overload opperators\bin\Debug\Exercise 16 Overload opperators.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 16 Overload opperators\bin\Debug\Exercise 16 Overload opperators.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 16 Overload opperators\bin\Debug\Exercise 16 Overload opperators.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 16 Overload opperators\obj\Debug\Exercise 16 Overload opperators.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 16 Overload opperators\obj\Debug\Exercise 16 Overload opperators.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 16 Overload opperators\obj\Debug\Exercise 16 Overload opperators.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 16 Overload opperators\obj\Debug\Exercise 16 Overload opperators.pdb

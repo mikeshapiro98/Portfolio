@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 5 Arrays and Lists\bin\Debug\Exercise 5 Arrays and Lists.exe.config
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 5 Arrays and Lists\bin\Debug\Exercise 5 Arrays and Lists.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 5 Arrays and Lists\bin\Debug\Exercise 5 Arrays and Lists.pdb
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 5 Arrays and Lists\obj\Debug\Exercise 5 Arrays and Lists.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 5 Arrays and Lists\obj\Debug\Exercise 5 Arrays and Lists.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 5 Arrays and Lists\obj\Debug\Exercise 5 Arrays and Lists.exe
+C:\Users\micha\OneDrive\Desktop\C# github repository\Exercise 5 Arrays and Lists\obj\Debug\Exercise 5 Arrays and Lists.pdb
