@@ -25,8 +25,7 @@ form{
     margin:0 auto;
     padding-top: 3%;
     font-family: 'Russo One', sans-serif;
-    border: 2px outset darkblue; 
-    
+    border: 2px outset darkblue;     
 }
 
 .selections{
@@ -37,17 +36,14 @@ form{
     margin:0 auto;
     border-radius: 50px;
     border: 3px groove #15511a;
-    padding-bottom: 2%;
-    
-    
+    padding-bottom: 2%;    
 }
 
 .choises {
     text-align: justify;
     padding-left:37%;
     padding-right:4%;
-    border-radius: 50px;
-    
+    border-radius: 50px;    
 }
 
 header{
@@ -56,41 +52,20 @@ header{
     border-radius:20px;
     text-align:center;
     background-color:#ff3a3a;
-    border: 20px dotted #79c5ff;
-   
+    border: 20px dotted #79c5ff;   
 }
-
-/*
-header:hover {
-            
-  animation: spin 10s infinite linear;
-}
-
-header:hover span {
-  animation: spin 10s infinite reverse linear;
-}
-
-span {
-  display: inline-block;
-}
-
-*/
 
 @keyframes spin {
   100% { transform: rotate(1turn); }
 }
 
-
-
 #meat{
-    float:left;
-    
+    float:left;    
     margin: 0 auto;
     width:45%;
     clear:none;
     text-align: justify;
-    padding-left: 8%
-    
+    padding-left: 8%    
 }
 
 #line{
@@ -105,21 +80,18 @@ span {
 
 #veggie {
     float:right;
-    text-align: justify;    
-  
+    text-align: justify;      
     margin:0 auto;
     clear:none;
     width:40%;
-    padding-right: 5%;
-    
+    padding-right: 5%;   
 }
 
 .totals {
     color:rgb(191, 242, 254);
     text-align: justify;
     margin:0 auto;
-    width: 40%
-    
+    width: 40%    
 }
 
 
@@ -129,8 +101,7 @@ h1{
     font-size:7em;
     font-family: 'Russo One', sans-serif;
     color:#79c5ff;
-    overflow: auto;
-    
+    overflow: auto;    
 }
 
 h2{
@@ -149,16 +120,12 @@ h3{
     font-size:2em;
     font-family: 'Russo One', sans-serif;
     color:;
-    padding:0 2% 0 2%;
-    
+    padding:0 2% 0 2%;    
 }
 
 h4 {
      font-size:1.4em;
-    font-family: 'Russo One', sans-serif;
-    
-    
-    
+    font-family: 'Russo One', sans-serif;    
 }
 
 h5 {
@@ -170,13 +137,11 @@ h5 {
 h6{
     text-align: center;
     font-size: 1.2em;
-
 }
 
 .lo {
     font-size: 1.2em;
     text-align: left;
-
 }
 
 button{
@@ -189,15 +154,13 @@ button{
     box-shadow: 10px 10px 60px 1px;
     cursor: url(http://cur.cursors-4u.net/food/foo-2/foo165.cur), auto;
     background-color: rgb(191, 242, 226,0.9);
-    border: 2px outset white;
-        
+    border: 2px outset white;        
 }
+
 button:hover {
   transform: translateY(4px);
   background-image: url(../img/button.png)
 }
-
-
 
 /*MEDIA BREAKS*/
 
