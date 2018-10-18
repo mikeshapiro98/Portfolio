@@ -189,8 +189,6 @@ INSERT INTO tbl_book_authors
 	(21, 'Mark Lee')
 ;
 
-
-
 SELECT * FROM tbl_book_authors
 
 /********************************************************************************

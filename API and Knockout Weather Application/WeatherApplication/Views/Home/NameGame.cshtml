@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "NameGame";
+}
+
+<div class="jumbotron bor1 ">
+
+    <h2>Enter your name below</h2>
+    <br />
+    <br />
+    <p>First name: <strong data-bind="text: firstName"></strong></p>
+    <p>Last name: <strong data-bind="text: lastName"></strong></p>
+
+    <p>First name: <input data-bind="value: firstName" /> </p>
+    <p>Last name: <input data-bind="value: lastName" /> </p>
+
+    <p>Full name: <strong data-bind="text: fullName"></strong></p>
+
+    <button class="btn btn-primary btn-lg" data-bind="click: capitalizeLastName"> Last Name go caps!</button>
+
+</div>
+
+<script>
+
+function AppViewModel() {
+    this.firstName = ko.observable("");
+    this.lastName = ko.observable("");
+    this.fullName = ko.computed(function() {
+    return this.firstName() + " " + this.lastName();    
+}, this);
+    this.capitalizeLastName = function() {
+    var currentVal = this.lastName();       
+    this.lastName(currentVal.toUpperCase()); 
+};
+
+}
+
+// Activates knockout.js
+ko.applyBindings(new AppViewModel());
+
+</script>
