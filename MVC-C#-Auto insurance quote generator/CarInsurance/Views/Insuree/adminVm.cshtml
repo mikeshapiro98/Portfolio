@@ -1,0 +1,90 @@
+﻿@*@model CarInsurance.ViewModels.adminVm*@
+
+@using CarInsurance.ViewModels
+@model List<adminVm>
+
+@{
+    ViewBag.Title = "adminVm";
+}
+
+<h2>Administrative View</h2>
+<h4>Customer Quotes</h4>
+
+@foreach (var adminVm in Model)
+{
+
+
+    <div>
+
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => adminVm.FirstName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => adminVm.FirstName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => adminVm.LastName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => adminVm.LastName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => adminVm.EmailAddress)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => adminVm.EmailAddress)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => adminVm.Quote)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => adminVm.Quote)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = adminVm.Id }) |
+        @Html.ActionLink("Full list of information", "Index")
+    </p>
+}
+
+@*
+        @foreach (var signup in Model)
+    {
+        using (Html.BeginForm("Unsubscribe", "Admin", FormMethod.Post))
+        {
+            @*The input tag is outside of the row so that it doens't display. also the type is hidden. We name it ID because that's
+                the perameter name in the ubsubscribe method. that's where it pulls it from
+            <input type="hidden" name="Id" value="@signup.Id" />
+            <div class="row mb-3">
+                <div class="col-2">
+                    @signup.FirstName
+                </div>
+                <div class="col">
+                    @signup.LastName
+                </div>
+                <div class="col-4">
+                    @signup.EmailAddress
+                </div>
+                <div class="col">
+                    <button type="submit" class="btn btn-danger btn-block">
+                        Unsubscribe
+                    </button>
+                </div>
+            </div>
+
+        }
+
+
+    }
+*@
