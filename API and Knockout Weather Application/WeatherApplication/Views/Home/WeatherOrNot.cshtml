@@ -21,14 +21,8 @@
     <h1>For an extra KO eample, click below</h1>
     <p><a href="NameGame" class="btn btn-primary btn-lg mt-5">Name Game</a></p>
 </div>
-
-
-
-
 <script>
-
     //JSON ... Javascript Object Notation OBJECT
-
     var weather = Object();
     $(document).ready(function () {
         $.get("@Url.Action("GetWeather","Home")", function (response) {
@@ -39,8 +33,6 @@
                 ko.applyBindings(weather);
         });
     });
-
-
 </script>
 
 @*$("button").click(function () {*@
