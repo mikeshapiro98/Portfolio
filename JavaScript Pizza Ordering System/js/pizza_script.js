@@ -7,8 +7,7 @@ function orderFunction() {
     var sizeArray = document.getElementsByClassName("size");
     for (var i=0; i < sizeArray.length; i++){
         if (sizeArray[i].checked) {
-            var selectedSize = sizeArray[i].value;
-           
+            var selectedSize = sizeArray[i].value;           
         }
     }
     if (selectedSize === "Personal"){
