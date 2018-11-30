@@ -16,8 +16,6 @@ namespace Exercise_9_methods_expansion
 
             //INRO
             Console.WriteLine("Welcome! In this program we will be using methods to do math equations. Press enter to start.");
-       
-
             //END INTRO
 
             bool sleep = false;
@@ -25,8 +23,6 @@ namespace Exercise_9_methods_expansion
             //WHILE REPEAT LOOP
             while (sleep == false)
             {
-
-
                 //EXAMPLE 1
                 bool loop1 = false;
                 while (loop1 == false)
@@ -35,19 +31,13 @@ namespace Exercise_9_methods_expansion
                     entered = Console.ReadLine();
 
                     if (entered == "exit" || entered == "Exit" || entered == "EXIT")
-                    {
-                        
-                        break; //THIS ONE BREAKS OUT OF LOOP 1
-                        
+                    {                        
+                        break; //THIS ONE BREAKS OUT OF LOOP 1  
                     }
                     else
                     {
-
-
                         try
                         {
-
-
                             int userInt = Convert.ToInt32(entered);
                             int write = mathMachine.original(userInt);
                             Console.WriteLine(userInt + " + (15 - 3) * 2 = " + write);
@@ -66,23 +56,12 @@ namespace Exercise_9_methods_expansion
                                 loop1 = true;
                                 
                             }
-
-
                         }
-
-
-
-
                         catch (Exception stix)
                         {
-
                             Console.WriteLine("\nERROR \nThe program failed because " + stix.Message + " Please try again.");
-
-
                         }
-
                     }
-
                 }
                 //END EXAMPLE 1
                 if (entered == "exit" || entered == "Exit" || entered == "EXIT") //THIS ONE BREAKS OUT OF SLEEP LOOP
@@ -90,10 +69,6 @@ namespace Exercise_9_methods_expansion
                     break;
 
                 }
-
-
-
-
                 //EXAMPLE 2
                 bool loop2 = false;
                 while (loop2 == false)
@@ -101,11 +76,6 @@ namespace Exercise_9_methods_expansion
 
                     Console.WriteLine("\nIn this next example you can enter any number including a decimal and the method will input a decimal and output \nan integer rounded up. Type 'exit' to quit the program.");
                     entered = Console.ReadLine();
-
-
-
-
-
                     try
                     {
 
@@ -225,19 +195,12 @@ namespace Exercise_9_methods_expansion
                     //COULD ALSO USE CONTINUE
 
                 }
-
-
                 //END OPTION
-
-
-
             }
             //END WHILE REPEATE
 
             Console.WriteLine("\nThank you for completing this program. Press enter to close the window.");
             Console.ReadLine();
-
-
         }
     }
 }
