@@ -51,9 +51,6 @@ namespace Exercise_8_Classes_and_Objects
                         //packet.multiply(enteredNum);
                         int write3 = packet.multiply(enteredNum);
                         Console.WriteLine("\n" + enteredNum + " * 6 is: " + write3);
-
-
-
                     }
 
                 }
@@ -64,13 +61,6 @@ namespace Exercise_8_Classes_and_Objects
                     //Console.WriteLine(stix.Message); //TO WRITE A DEFAULT MESSAGE
                     //Console.ReadLine();
                 }
-
-
-
-               
-
-
-
             }
             //END WHILE REPEAT LOOP
 
