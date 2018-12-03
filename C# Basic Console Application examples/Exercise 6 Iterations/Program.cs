@@ -40,12 +40,6 @@ namespace Exercise_6_Iterations
                 //newUserString[i] + userString;  //FOR REFERANCE PURPOSES
                 //Console.WriteLine(stringAdds[i] + userString);
             }
-
-
-
-
-
-
             Console.ReadLine();
 
             //END FIRST REQUIREMENT
@@ -88,13 +82,6 @@ namespace Exercise_6_Iterations
             }
 
             //END THIRD REQUIREMENT
-
-            //UNNECISSARY 
-            ////TRANSITION
-            //Console.WriteLine("Okay let's move on. Press enter to continue.");
-            //Console.ReadLine();
-            ////END TRANSITION
-
             //FOURTH REQUIREMENT  USING THE < OPPERATOR ITERATION
 
             string counter = "tenletters";
@@ -109,19 +96,11 @@ namespace Exercise_6_Iterations
             Console.WriteLine("Yet again, press enter to continue.");
             Console.ReadLine();
             //END FOUTH REQUIREMENT 
-
-            ////UNNECISSARY 
-            ////TRANSITION
-            //Console.WriteLine("Onward. You know what to do.");
-            //Console.ReadLine();
             ////END TRANSITION
 
             //FIFTH REQUIREMENT USING THE <= OPPERATOR ITERATION
 
             Console.WriteLine("This will count the amount of iterations and print them to the screen using the <= operator as the iterator.");
-
-
-
             for (int i = 0; i <= 10; i++)
             {
                 Console.WriteLine(i);
@@ -180,27 +159,6 @@ namespace Exercise_6_Iterations
                 }
             }
 
-            //NOT RIGHT FOR THIS ONE
-            //bool validator = true;
-            //while (validator == true)
-            //{
-            //    switch(searchee)
-            //    {
-            //        case "banana":
-            //            Console.WriteLine("Index number 0");
-            //            validator = false;
-
-            //            break;
-
-            //        default:
-            //            Console.WriteLine("default");
-            //                break; 
-
-            //    }
-
-
-            //}
-
             Console.WriteLine("Excellent! now onto the next one. You know what to do. ");
             Console.ReadLine();
             //END SIXTH REQUIREMENT
@@ -255,23 +213,6 @@ namespace Exercise_6_Iterations
                     }
                 }
 
-
-
-                //for (int v = 5; v <= 9; v++)
-                //{
-
-                //    if (veggies[v] == userVeg)
-                //    {
-                //        Console.WriteLine("and");
-                //        Console.WriteLine(v);
-                //        sleep = false;
-                //        break;
-
-                //    }
-
-                //}
-
-
             }
             Console.WriteLine("We're alost done. Just a few more times of pressing enter.");
             Console.ReadLine();
@@ -307,27 +248,6 @@ namespace Exercise_6_Iterations
                         starch);
                 }
             }
-
-            //for (int s = 0; s < finalList.Count; s++)
-            //// foreach (string starch in finalList)
-            //{
-            //    // Console.Write("\n"+starch);
-            //    Console.Write("\n" + finalList[s]);
-            //    for (int i = s + 1; i < finalList.Count; i++)
-            //    //foreach(string starch in finalList)
-            //    {
-
-            //        if (finalList[i] == finalList[s])
-            //        // if(finalList[s]==starch)
-            //        {
-            //            addList.Add(finalList[s]);
-
-            //        }
-
-
-            //    }
-
-            //}
 
             Console.WriteLine("\nFingers tired yet? Press enter.");
             Console.ReadLine();
