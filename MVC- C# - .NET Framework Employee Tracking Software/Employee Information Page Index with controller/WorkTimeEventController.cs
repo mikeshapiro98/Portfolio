@@ -114,7 +114,5 @@ namespace ScheduleUsers.Controllers
             EventListVm EVM = new EventListVm(workTime: Sorting.ToList(), user: user, ClockedIn: ClockedInStatus);
             return View(EVM);
         }
-
-        
     }
 }
