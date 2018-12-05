@@ -10,7 +10,6 @@ namespace Exercise_9_methods_expansion
     {
         static void Main(string[] args)
         {
-
             //DEFINE AND INSTANTIATE CLASS
             addomerators mathMachine = new addomerators();
 
