@@ -85,18 +85,11 @@ namespace Exercise_5_Arrays_and_Lists
                 }
 
             }
-
-
-
             //END INT ARRAY
-
-
             //TRANSITION
             Console.WriteLine("Those were Arrays. Now let's move on to a list. Press enter to continue.");
             Console.ReadLine();
             //END TRANSITION
-
-
             //LIST 
 
             bool valid3 = false;
@@ -135,7 +128,6 @@ namespace Exercise_5_Arrays_and_Lists
                     valid3 = true;
                 }
             }
-
             //CONCLUSION
             Console.WriteLine("This concludes this program designed to exemplify arrays and list. Thank you for completing it. Press enter to \nclose this window.");
             Console.ReadLine(); 
