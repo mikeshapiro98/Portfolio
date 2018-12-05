@@ -1,4 +1,4 @@
-
+//START ORDER FUNCTION
 function orderFunction() {
     'use strict';
     var ordered = "<h4>Your order has been placed!</h4>";
@@ -112,5 +112,7 @@ function getVeggie(total, ordered){
     document.getElementById("finish1").innerHTML = ordered;
     document.getElementById("finish2").innerHTML = "<h3>Total: <strong>$"+total+".00"+"</strong></h3>"
 }
+
+//END ORDER FUNCTION
 
 
