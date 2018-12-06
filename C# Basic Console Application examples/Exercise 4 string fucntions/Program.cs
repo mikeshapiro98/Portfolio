@@ -112,18 +112,13 @@ namespace Exercise_4_string_fucntions
             Console.WriteLine(fun);
             System.Threading.Thread.Sleep(2000);
             //END JUST FOR FUN
-
-
             //END EXAMPLE 3!
-
             //CONCLUSION
             Console.WriteLine(" ");
             Console.WriteLine(" ");
             Console.WriteLine("  This concludes the sting funcions example program. Thank you for completing it. Press enter to close the window. ");
             Console.ReadLine();
             //END CONCLUSION!
-
-
         }
     }
 }
