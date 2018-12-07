@@ -39,7 +39,12 @@ namespace CS_Exercise_3_while_statements
         }
     }
 }
-                //    }
+               
+//Too Complicated beyond here. 
+
+
+
+//    }
                 //    //INTRODUCTION!
                 //    introStart: //Label (Bad practice)
                 //    Console.WriteLine("Time to try out some while loops. Are you ready?");
