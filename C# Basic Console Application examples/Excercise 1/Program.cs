@@ -102,7 +102,6 @@ namespace CS_Excercise_1
             {
                 Console.WriteLine("After the evaluation, the calculations show that the statement is: " + isTrue3);
             }
-
             Console.WriteLine("  ");
             Console.WriteLine("Thank you for completing this program. Please press enter to initiate self destruction of this window.");
             Console.ReadLine();
@@ -118,8 +117,6 @@ namespace CS_Excercise_1
             System.Threading.Thread.Sleep(1000);
             Console.WriteLine("1");
             System.Threading.Thread.Sleep(1000);
-
-
         }
     }
 }
