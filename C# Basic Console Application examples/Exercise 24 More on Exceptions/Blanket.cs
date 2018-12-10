@@ -17,7 +17,6 @@ namespace Exercise_24_More_on_Exceptions
             { 
                 if (gimme > 0)
                 {
-
                     DateTime currentYear = new DateTime();
                     currentYear = DateTime.Now.AddYears(-gimme);
                     int yearBorn = currentYear.Year;
@@ -32,7 +31,6 @@ namespace Exercise_24_More_on_Exceptions
             }
             while(!tryit)
             {
-                
                 throw new Exception();
             }
 

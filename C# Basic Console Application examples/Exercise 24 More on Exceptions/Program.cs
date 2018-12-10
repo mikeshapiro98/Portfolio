@@ -23,7 +23,6 @@ namespace Exercise_24_More_on_Exceptions
             bool sleep = false;
             while(sleep == false)
             {
-
                 try
                 {
                     
@@ -43,15 +42,9 @@ namespace Exercise_24_More_on_Exceptions
                
             }
             //END SLEEP LOOP
-
-
             WriteLine("\nAnd so we conclude this program offering an example of exception handeling.");
             ReadLine();
             //End program
-
-
-
-
         }
     }
 }
