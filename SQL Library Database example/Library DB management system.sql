@@ -16,8 +16,6 @@ CREATE TABLE tbl_publisher(
 	publisher_phone VARCHAR(50) NOT NULL
 );
 
-
-
 INSERT INTO tbl_publisher
 	(publisher_name, publisher_address, publisher_phone)
 	VALUES
@@ -46,8 +44,6 @@ CREATE TABLE tbl_borrower(
 	borrower_address VARCHAR(50) NOT NULL,
 	borrower_phone VARCHAR(50) NOT NULL
 );
-
-
 
 INSERT INTO tbl_borrower
 	(borrower_name, borrower_address, borrower_phone)
@@ -342,11 +338,6 @@ SELECT * FROM tbl_book_loans
 /********************************************************************************
 						END LOANS TABLE
 ********************************************************************************/
-
-
-
-
-
 /********************************************************************************
 						!!STORED PROCEDURES!!
 ********************************************************************************/
