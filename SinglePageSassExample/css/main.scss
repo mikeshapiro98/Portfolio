@@ -1,0 +1,169 @@
+
+/*SASS Variable*/
+/*$mycolor: #005DFF;*/
+
+// body{
+//     background-color: $mycolor; 
+// }
+
+/*SASS Map Example. This allows us to hvae multiple colors seperated by a comma*/
+/*Dollar sign on the object now the key value.*/
+//Lighten() is in CSS already 
+$colors: (
+    primary: #005DFF,
+    primary-light: lighten(#005DFF, 40%),
+    primary-dark: darken(#005DFF, 40%),
+    accent: #FFF6BB
+);
+
+$padding: 16px;
+
+$borders: 15px;
+
+// Sass function example. function is a key work, but the perameter can be named anything. 
+@function color($color-name){
+    @return map-get($colors, $color-name)
+};
+
+//Sass responsivness
+$desktop: 840px; 
+@mixin desktop{
+    @media(min-width: #{$desktop}){
+        @content;
+    }
+}
+//THE MIXIN ABOVE ALLOWS FOR REUSABLE CODE. 
+
+body, html {
+    height: 100%;
+
+}
+
+body{
+    font-family: 'Montserrat';
+    margin:0;
+    //Example of Accessing maps
+    // background-color:map-get($colors, primary);
+
+    //SASS Allows for nested CSS for orginization 
+    #bg{
+        clip-path: polygon(100% 0, 100% 82%, 45% 100%, 0 100%, 0 0);
+        //Evoking Function
+        background-color: color(primary);
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        z-index: -1;
+
+        //This is where we will make it responsive. Using Sass we just put what we want in the include statement. 
+        @include desktop{
+            clip-path: polygon(0 0, 81% 0, 58% 100%, 0% 100%);
+        }
+    }
+
+    header a{
+        color:#fff;
+        text-decoration: none;
+        padding: $padding;
+        display: block;
+        text-transform: uppercase;
+    }
+}
+//NOTE ALL THE NESTED ELELMENTS THAT SASS ALLOWS FOR. 
+main{
+    @include desktop{
+        display: grid;
+        grid-template-columns: 50% auto; 
+        //This defines grids we can use below. 
+        grid-template-areas: 
+            "primary card";
+    }
+
+    section#card {
+        background:#fff;
+        padding: 20px;
+        margin: 1em auto;
+        border-radius: $borders;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        width: 80%;
+
+        @include desktop{
+            grid-area: card;
+            height: fit-content;
+            align-self: center; 
+        }
+
+        ul{
+            list-style-type: none;
+            margin:0;
+            padding: 0;
+
+            li{
+                margin-bottom:10px;
+                span{
+                    position: absolute;
+                  //  content: ' '; 
+                    width: 30px;
+                    height: 30px;
+                    //HERE WE CREATE A NEW COLOR ABOVE
+                    background-color: color(primary-light);
+                    border-radius: 50%;
+                    margin-right: 10px; 
+                }
+                strong{
+                    display: inline-block;
+                    margin-left: max(40px);
+                    margin-top: 10px;
+                }
+            }
+        }
+    }
+
+    section#primary{
+        color: #fff;
+        padding: $padding;
+        text-align: center;
+
+        @include desktop{
+            grid-area: primary;
+            text-align: left;
+            margin: 4em 0 0 4em;
+        }
+
+        h1{
+            font-size: 3em;
+            margin-top: 10px;
+            text-transform: uppercase;
+
+            @include desktop{
+                width: 30%;
+                font-size: 4em;
+                line-height: .9em;
+            }
+        }
+
+        p{
+            font-size: 1.4em;
+        }
+        //Making a button from CSS
+        a{
+            color:color(primary-dark);
+            border-radius: $borders;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: bold;
+            background-color: color(accent);
+            display:block;
+            text-align: center;
+            margin: 50px auto 0 auto;
+            padding:$padding;
+
+            @include desktop{
+                display:inline-block;
+                //This padding gives the top and the bottom the pre-defined padding, and the left and right the predefined times 4.
+                //This is specific to Sass given the variables. 
+                padding: $padding $padding*4;
+            }
+        }
+    }
+}
